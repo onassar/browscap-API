@@ -50,4 +50,4 @@ Here is a sample response you can expect:
 <a name="4.00"></a>
 ### [4.00](#4.00) Requests
 If you have any requests on endpoints or features to support, please email me:
-([onassar@gmail.com](onassar@gmail.com))
+[onassar@gmail.com](mailto:onassar@gmail.com)

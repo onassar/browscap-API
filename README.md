@@ -9,7 +9,7 @@ This repository will document how to use a free hosted `browscap` API to prevent
 
 <a name="1.00"></a>
 ### [1.00](#1.00) **Proposal**
-At the time of documentation (02 August 2020), this document is meant to serve as a proposal for a `browscap` API. If you're interested in this, star this repository and/or please email me ([mailto](mailto:onassar@gmail.com)) to express your interest.
+At the time of documentation (02 August 2020), this document is meant to serve as a proposal for a `browscap` API. If you're interested in this, star this repository and/or please email me ([mailto:onassar@gmail.com](onassar@gmail.com){:target="_blank"}) to express your interest.
 
 It's in active development, and I hope to have something available soon.
 

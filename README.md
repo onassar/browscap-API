@@ -4,7 +4,7 @@ This repository will document how to use a free hosted `browscap` API to prevent
 ## Table of Contents
   - [1.00 Proposal](#1.00)
   - [2.00 Endpoints](#2.00)
-  - [3.00 Sample Response](#3.00))
+  - [3.00 Sample Response](#3.00)
   - [4.00 Requests](#4.00)
 
 <a name="1.00"></a>
@@ -28,21 +28,21 @@ Here is a sample response you can expect:
 
 ``` json
 {
-   "browser_name_regex":"~^mozilla\/5\\.0 \\(.*mac os x.*\\) applewebkit.* \\(.*khtml.*like.*gecko.*\\) .*chrome\/.* safari\/.*$~",
-   "browser_name_pattern":"Mozilla\/5.0 (*Mac OS X*) applewebkit* (*khtml*like*gecko*) *Chrome\/* Safari\/*",
-   "parent":"Chrome Generic",
-   "platform":"MacOSX",
-   "comment":"Chrome Generic",
-   "browser":"Chrome",
-   "browser_maker":"Google Inc",
-   "device_type":"Desktop",
-   "device_pointing_method":"mouse",
-   "version":"0.0",
-   "majorver":"0",
-   "minorver":"0",
-   "ismobiledevice":false,
-   "istablet":false,
-   "crawler":false
+   "browser_name_regex": "~^mozilla\/5\\.0 \\(.*mac os x.*\\) applewebkit.* \\(.*khtml.*like.*gecko.*\\) .*chrome\/.* safari\/.*$~",
+   "browser_name_pattern": "Mozilla\/5.0 (*Mac OS X*) applewebkit* (*khtml*like*gecko*) *Chrome\/* Safari\/*",
+   "parent": "Chrome Generic",
+   "platform": "MacOSX",
+   "comment": "Chrome Generic",
+   "browser": "Chrome",
+   "browser_maker": "Google Inc",
+   "device_type": "Desktop",
+   "device_pointing_method": "mouse",
+   "version": "0.0",
+   "majorver": "0",
+   "minorver": "0",
+   "ismobiledevice": false,
+   "istablet": false,
+   "crawler": false
 }
 ```
 
